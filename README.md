@@ -7,7 +7,7 @@ Secured first place by developing a VueJS-based web application powered by the O
 https://www.linkedin.com/posts/zayed-a-405010202_chatgpt-artificialintelligence-openai-activity-7076278761754640384--gNj/?utm_source=share&utm_medium=member_ios
 
 ## Demo
-https://still-thinking-25504.web.app
+https://still-thinking-sherra.web.app/
 
 
 
