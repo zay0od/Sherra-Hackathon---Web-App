@@ -1,16 +1,19 @@
-# openai-quickstart-vue
+# Sherra Hackathon - Web APP
 
-This is a quickstart template for using OpenAI's GPT-3 API in Vue 3.
+## Description
+Secured first place by developing a VueJS-based web application powered by the OpenAI API, empowering entrepreneurs to efficiently transform their ideas into actionable plans. Utilizing Generative AI, the application generates comprehensive business plans with just a click, simplifying the process for entrepreneurs.
 
-![image](./assets/preview.png)
+## Demo
+https://still-thinking-25504.web.app
+
+
 
 ## Setup
 
 1. Clone this repository and navigate into the project directory
 
     ```shell
-    git clone https://github.com/ysfscream/openai-quickstart-vue.git
-    cd openai-quickstart-vue
+    git clone https://github.com/zay0od/Sherra-Hackathon---Web-App.git
     ```
 
 2. Using `pnpm` to install dependencies
@@ -44,4 +47,3 @@ This is a quickstart template for using OpenAI's GPT-3 API in Vue 3.
     ```shell
     pnpm build
     ```
-# Sherra-Hackathon---Web-App
